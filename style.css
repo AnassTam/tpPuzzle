@@ -4,13 +4,13 @@
     margin-top: 50px;
     border-radius: 10px;
 }
-.col-3{
+.chiffre{
     border: 1px solid black;
     height: 200px;
     background-color:#bb6688;
     border-radius: 10px;
-  
     text-align: center;
     font-size:50px; 
 }
+    
 
